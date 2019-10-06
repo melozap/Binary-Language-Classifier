@@ -10,7 +10,7 @@ Our training data consists of Mandarin and Japanese sentences
 The data was obtained from the Tatoeba Project. Tatoeba is a large database of sentences and translations
 - Tatoeba Project: https://tatoeba.org/eng/
 - Bilingual Data Sets: https://www.manythings.org/anki/
-- Collection of Stopwords in Multiple Languages: https://github.com/stopwords-iso/stopwords-iso
+- The Japanese and Mandarin Stop Words: https://github.com/stopwords-iso/stopwords-iso
 - Sentence Piece Tokenizer: https://github.com/google/sentencepiece
 
 
