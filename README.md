@@ -1,5 +1,4 @@
 # Binary-Language-Classifier
-Work-In-Progress:
 
 Build a Binary Language Classifier to accurately classify Japanese and Chinese Mandarin characters
 
